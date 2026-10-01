@@ -1,0 +1,17 @@
+{
+  "name": "bitpanda-fusion",
+  "version": "1.0.0",
+  "description": "Bitpanda Fusion market data, order books, balances, fee tiers, and order management via the hosted Fusion MCP at mcp.fusion.bitpanda.com. Authenticates with a Fusion API key.",
+  "author": {
+    "name": "Bitpanda",
+    "url": "https://www.bitpanda.com"
+  },
+  "homepage": "https://docs.fusion.bitpanda.com",
+  "repository": "https://github.com/bitpanda/agent-plugins",
+  "license": "Proprietary",
+  "keywords": [
+    "bitpanda fusion",
+    "fusion mcp",
+    "bitpanda fusion api"
+  ]
+}

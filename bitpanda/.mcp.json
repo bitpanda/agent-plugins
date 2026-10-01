@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "bitpanda": {
+      "type": "http",
+      "url": "https://mcp.public.bitpanda.com",
+      "headers": {
+        "x-api-key": "${BITPANDA_API_KEY}"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "bitpanda-fusion": {
+      "type": "http",
+      "url": "https://mcp.fusion.bitpanda.com",
+      "headers": {
+        "x-api-key": "${BITPANDA_FUSION_API_KEY}"
+      }
+    }
+  }
+}

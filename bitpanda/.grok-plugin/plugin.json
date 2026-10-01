@@ -1,0 +1,17 @@
+{
+  "name": "bitpanda",
+  "version": "1.0.0",
+  "description": "Bitpanda portfolio, market data, trading quotes, and Earn (staking) via the hosted Bitpanda MCP at mcp.public.bitpanda.com. Authenticates with a Bitpanda API key.",
+  "author": {
+    "name": "Bitpanda",
+    "url": "https://www.bitpanda.com"
+  },
+  "homepage": "https://docs.public.bitpanda.com",
+  "repository": "https://github.com/bitpanda/agent-plugins",
+  "license": "Proprietary",
+  "keywords": [
+    "bitpanda",
+    "bitpanda mcp",
+    "bitpanda api"
+  ]
+}
